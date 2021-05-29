@@ -1,0 +1,174 @@
+
+
+#galeria .col-lg-4 {
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img {
+    width: 100%;
+    height: 270px;
+
+}
+
+#galeria img:hover {
+    border: 5px solid #F2E7AC;
+    transform: scale(1.1);
+
+}
+
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../img/galeriaFondo.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#modales {
+    background-color: #95B0BF;
+}
+
+#modBody {
+    color: #333333;
+    font-family: Century Gothic, sans-serif;
+    background-color: #E1E3C1;
+}
+
+
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
+
+input.error {
+    border: 1px solid red;
+    font-weight: 300;
+    color: red;
+}
+
+#contraDifC {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+#contraIguaC {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+#contraDifD {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+#contraIguaD {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+#contraDif {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+#contraDifUsu {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 2em;
+    line-height: 48px;
+    padding-bottom: 20px;
+    color: #377BA6;
+}
+
+.mensajeUsuario p {
+    text-transform: uppercase;
+    color: #b1980a;  
+    font-family: 'Droid serif', 
+    serif; font-size: 20px; 
+    font-weight: 400; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 0 0 12px; 
+   
+    margin-left: 20px;
+    
+}
+
+#contraIgua {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+#contraIguaUsu {
+    width: 50px !important;
+    height: 50px !important;
+
+}
+
+#insertFormProf, #insertHorario, #insertMaterial, #insertFormPag, #insertFormUsu, #insertUSesiones, #insertObservaciones, #modUsuarioUsu, 
+#formEmpresa, #formEmpresaD, #insertFormGast, #asigProfesional, #asignarSerivicio, #formAnadirEsp, #contraFormD, #contraFormProf, #contraFormUsu {
+    max-width: 800px;
+    margin: 50px auto;
+    position: relative;
+    box-shadow: 0 10px 30px 0px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    background-color: #A9B6CC;
+
+}
+
+#contraFormProf h2, #contraFormUsu h2, #insertFormProf h2, #insertFormUsu h2, #insertHorario h2, #insertMaterial h2, #insertFormPag h2, 
+#insertUSesiones h2, #insertObservaciones h2, #modUsuarioUsu h2, #formEmpresa h2, #formEmpresaD h2, #insertFormGast h2 , #asigProfesional h2,
+#asignarSerivicio h2, #contraFormD h2, #formAnadirEsp h2 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 3em;
+    line-height: 30px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+
+}
+
+.form-control {
+    height: 100%;
+    width: 100%;
+    border-width: 0 0 2px 0;
+    border-color: #0b0053;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+
+}
+
+.form-control:focus {
+    outline: none;
+
+}
+
+label{
+font-size: 16px;
+line-height: 26px;
+font-weight: 400;
+color: #1A1A1A;
+font-weight: 600;
+}
+
+
+  
